@@ -1,4 +1,4 @@
-Load(in gm),Load(in N),Experimental Deflection ?H(mm),Experimental deflection ?V(mm),Theriotical Deflection ?H(mm),Theriotical Deflection ?V(mm),% Error in ?H,% Error in ?V
+﻿Load(in gm),Load(in N),Experimental Deflection δH(mm),Experimental deflection δV(mm),Theriotical Deflection δH(mm),Theriotical Deflection δV(mm),% Error in δH,% Error in δV
 0,0,0,0,0,0,0,0
 50,0.4905,0.2,-0.16,0.102432602,0.160901131,95.25033715,0.560052383
 100,0.981,0.57,-0.4,0.204865203,0.321802261,178.2317304,24.29993452
@@ -19,4 +19,4 @@ Load(in gm),Load(in N),Experimental Deflection ?H(mm),Experimental deflection ?V
 150,1.4715,0.88,-0.68,0.307297805,0.482703392,186.3671611,40.87325912
 100,0.981,0.58,-0.46,0.204865203,0.321802261,183.1129889,42.9449247
 50,0.4905,0.34,-0.24,0.102432602,0.160901131,231.9255731,49.15992143
-0,0,0,0,0,0,0,0
+0,0,-0.08,-0.01,0,0,NA,NA
